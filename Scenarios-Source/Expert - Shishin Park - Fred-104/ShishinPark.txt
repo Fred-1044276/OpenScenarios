@@ -1,0 +1,9 @@
+Title: Shishin Park
+
+Description: The Shishin, also known as the Four Symbols, come to life in the form of a four-way dueling coaster. Attracting more guests will require bigger coasters, but you must still turn this growing park into a successful huge theme park.
+
+Objective: To have at least 4,850 guests in your park. You must not let the park rating drop below 700 at any time!
+
+Difficulty: Expert
+
+Notes: The scenario starts with four racing twister coasters, named Byakko, Suzaku, Seiryuu, and Genbu. As long as you keep building coasters longer than 600 m (1,968 ft) and with an excitement rating higher than 6.00, you should not have problems attracting guests to the park.
